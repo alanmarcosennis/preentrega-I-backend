@@ -1,0 +1,41 @@
+{
+    "id": "c1",
+    "products": [
+      {
+        "product": "p1",
+        "quantity": 2
+      },
+      {
+        "product": "p3",
+        "quantity": 1
+      },
+      {
+        "product": "p4",
+        "quantity": 0
+      },
+      {
+        "product": "p5",
+        "quantity": 0
+      },
+      {
+        "product": "p6",
+        "quantity": 0
+      },
+      {
+        "product": "p7",
+        "quantity": 0
+      },
+      {
+        "product": "p8",
+        "quantity": 0
+      },
+      {
+        "product": "p9",
+        "quantity": 0
+      },
+      {
+        "product": "p10",
+        "quantity": 0 }
+    ]
+  }
+  

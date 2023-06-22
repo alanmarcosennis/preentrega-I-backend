@@ -1,0 +1,133 @@
+[
+    {
+      "id": "1",
+      "title": "Producto 1",
+      "description": "Descripción del producto 1",
+      "code": "ABC123",
+      "price": 10.99,
+      "status": true,
+      "stock": 50,
+      "category": "Categoría 1",
+      "thumbnails": [
+        "./imagenes/zapatillas/zapa1.jpg"
+      ]
+    },
+    {
+      "id": "2",
+      "title": "Producto 2",
+      "description": "Descripción del producto 2",
+      "code": "DEF456",
+      "price": 19.99,
+      "status": true,
+      "stock": 25,
+      "category": "Categoría 2",
+      "thumbnails": [
+        "./imagenes/zapatillas/zapa2.jpg"
+      ]
+    },
+    {
+      "id": "3",
+      "title": "Producto 3",
+      "description": "Descripción del producto 3",
+      "code": "GHI789",
+      "price": 5.99,
+      "status": false,
+      "stock": 0,
+      "category": "Categoría 1",
+      "thumbnails": [
+        "./imagenes/zapatillas/zapa3.jpg"
+      ]
+    },
+    {
+      "id": "4",
+      "title": "Producto 4",
+      "description": "Descripción del producto 4",
+      "code": "DEF012",
+      "price": 19.99,
+      "status": true,
+      "stock": 45,
+      "category": "Categoría 4",
+      "thumbnails": [
+        "./imagenes/zapatillas/zapa4.jpg"
+      ]
+    },
+    {
+      "id": "5",
+      "title": "Producto 5",
+      "description": "Descripción del producto 5",
+      "code": "DEF345",
+      "price": 19.99,
+      "status": true,
+      "stock": 55,
+      "category": "Categoría 5",
+      "thumbnails": [
+        "./imagenes/zapatillas/zapa5.jpg"
+      ]
+    },
+    {
+      "id": "6",
+      "title": "Producto 6",
+      "description": "Descripción del producto 6",
+      "code": "DEF678",
+      "price": 19.99,
+      "status": true,
+      "stock": 65,
+      "category": "Categoría 6",
+      "thumbnails": [
+        "./imagenes/zapatillas/zapa6.jpg"
+      ]
+    },
+    {
+      "id": "7",
+      "title": "Producto 7",
+      "description": "Descripción del producto 7",
+      "code": "DEF901",
+      "price": 19.99,
+      "status": true,
+      "stock": 75,
+      "category": "Categoría 7",
+      "thumbnails": [
+        "./imagenes/zapatillas/zapa7.jpg"
+      ]
+    },
+    {
+      "id": "8",
+      "title": "Producto 8",
+      "description": "Descripción del producto 8",
+      "code": "DEF234",
+      "price": 19.99,
+      "status": true,
+      "stock": 85,
+      "category": "Categoría 8",
+      "thumbnails": [
+        "./imagenes/zapatillas/zapa8.jpg"
+      ]
+    },
+    {
+      "id": "9",
+      "title": "Producto 9",
+      "description": "Descripción del producto 9",
+      "code": "DEF567",
+      "price": 19.99,
+      "status": true,
+      "stock": 25,
+      "category": "Categoría 9",
+      "thumbnails": [
+        "./imagenes/zapatillas/zapa9.jpg"
+      ]
+    },
+    {
+      "id": "10",
+      "title": "Producto 10",
+      "description": "Descripción del producto 10",
+      "code": "DEF890",
+      "price": 19.99,
+      "status": true,
+      "stock": 25,
+      "category": "Categoría 10",
+      "thumbnails": [
+        "./imagenes/zapatillas/zapa10.jpg"]
+    }
+  
+  ]
+  
